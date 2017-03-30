@@ -1,0 +1,28 @@
+.leftfloat {
+  float: left;
+  width: 15%;
+}
+div#js-element {
+  width: 100px;
+  height: 40px;
+  margin: 5px;
+  background-color: orange;
+}
+div#jq-element {
+  width: 100px;
+  height: 40px;
+  margin: 5px;
+  background-color: orange;
+}
+div.js-group {
+  width: 100px;
+  height: 40px;
+  margin: 5px;
+  background-color: orange;
+}
+div.jq-group {
+  width: 100px;
+  height: 40px;
+  margin: 5px;
+  background-color: orange;
+}

@@ -1,0 +1,25 @@
+.leftfloat {
+  float: left;
+  width: 15%;
+
+}
+.leftfloat > div {
+  padding: 5px;
+  width: 150px;
+  border: 1px solid lightgrey;
+}
+
+.leftfloat > div > div {
+  padding: 5px;
+  border: 1px solid lightgrey;
+}
+
+.ui-container-jq, .ui-container-jq-2 {
+
+}
+.ui-color {
+  background-color: lightgreen;
+}
+.wrap-class {
+  background-color: orange;
+}

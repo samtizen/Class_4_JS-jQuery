@@ -1,0 +1,17 @@
+.leftfloat {
+  float: left;
+  width: 15%;
+
+}
+.leftfloat > div {
+  padding: 5px;
+  width: 150px;
+  border: 1px solid lightgrey;
+}
+
+#ui-container-js, #ui-container-js-2 {
+    background-color: lightgreen
+}
+#ui-container-jq {
+    background-color: lightblue
+}

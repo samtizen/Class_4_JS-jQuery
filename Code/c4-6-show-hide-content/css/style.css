@@ -1,0 +1,14 @@
+.msg {
+  background-color: orange;
+  border: 1px solid lightgrey;
+}
+.cont {
+  float: left;
+  margin-right: 10px;
+}
+#divshow1 {
+  /*visibility: hidden;*/
+}
+#divshow2 {
+  /*display: none;*/
+}

@@ -1,0 +1,10 @@
+.leftfloat {
+  float: left;
+  width: 15%;
+}
+#js-element, #jq-element {
+  width: 100px;
+  height: 40px;
+  margin: 5px;
+  background-color: orange;
+}

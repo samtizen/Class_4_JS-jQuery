@@ -1,0 +1,23 @@
+.ui-btn {
+  line-height: 40px;
+  width: 150px;
+  text-align: center;
+  background-color: orange;
+  border: 1px solid grey;
+}
+.ui-btn:hover {
+  cursor: pointer;
+}
+.ui-content {
+  display: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 150px;
+  border: 1px solid lightgrey;
+}
+.leftfloat {
+  float: left;
+  margin-right: 10px;
+}

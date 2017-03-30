@@ -1,0 +1,12 @@
+.leftfloat {
+  float: left;
+  width: 15%;
+}
+#js-p, #jq-p {
+  font-size: 18px;
+  font-weight: bold;
+  color: brown;
+}
+#js-text, #jq-text {
+  display: block;
+}
